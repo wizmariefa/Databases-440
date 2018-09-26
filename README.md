@@ -1,7 +1,8 @@
 # Databases-440
+
 CSCI 440 Databases Projects for Fall 2018
 
-# Part 1: ER Diagram
+## Part 1: ER Diagram
 
 Draw an ER diagram for your database design. You may use any software tool of
 your choice, but handwritten ER diagrams will not be accepted. Use Chapters 3

@@ -1,0 +1,9 @@
+# macOS rules
+.DS_Store
+
+# dataset rules
+*/title.principals.*
+*/name.basics.*
+*/title.basics.*
+*/title.akas*
+*/title.crew.*
