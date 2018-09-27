@@ -1,0 +1,50 @@
+name.basics
+	nconst
+	primaryName
+	birthYear
+	deathYear
+	primaryProfesion
+	knownForTitles
+
+title.akas
+	titleId
+	orderingtitle
+	region
+	language
+	types	attributes
+	isOriginalTitle
+
+title.basics
+	tconst
+	titleType
+	primartTitle
+	originalTitle
+	isAdult
+	startYear
+	endYear
+	runtimeMinutes
+	genres
+
+title.crew
+	tconst
+	directors
+	writers
+
+title.episode
+	tconst
+	parentTconst
+	seasonNumber
+	episodeNumber
+
+title.principals
+	tconst
+	ordering
+	nconst
+	category
+	job
+	characters
+
+title.ratings
+	tconst
+	averageRating
+	numVotes
