@@ -7,3 +7,10 @@
 */title.basics.*
 */title.akas*
 */title.crew.*
+
+#TeX rules
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*synctex.gz
